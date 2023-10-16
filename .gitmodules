@@ -1,3 +1,6 @@
 [submodule "AirSimGit"]
 	path = AirSimGit
 	url = https://github.com/ScottColeSW/SAC-AI-BI-Tinkertown
+[submodule "ai-flight-safety-analysis"]
+	path = ai-flight-safety-analysis
+	url = https://github.com/ScottColeSW/SAC-AI-BI-Tinkertown
